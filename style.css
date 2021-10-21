@@ -1,0 +1,21 @@
+#Header{
+    background-color: gray;
+    width: 1480px;
+    padding:10px ;
+    color:white;
+    text-align:center;
+}
+
+#middle{
+    background-color: bisque;
+    height:480px;
+    padding: 50px;
+    text-align: center;
+}
+
+#start{
+    font-size: 40px;
+    width: 150px;
+    background-color: aqua;
+    border-radius:10px;
+}
